@@ -1,0 +1,6 @@
+Python tiene una serie de caracteristicas que lo hacen muy particular y que, sin duda, le aportan muchas ventajas y estan en la raiz de su uso tan extendido.
+
+Python es un lenguaje multiparadigma,esto significa que combina propiedades de diferentes paradigmas de programacion.
+todo en Python es un objeto,
+
+Una de las caracteristicas importantes de Python es que es un lenguaje interpretado,

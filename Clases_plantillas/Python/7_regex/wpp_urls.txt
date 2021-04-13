@@ -1,0 +1,424 @@
+[1:09 PM, 4/26/2020] Ivan: https://towardsdatascience.com/probably-the-best-resource-to-learn-deep-learning-in-2020-66d13a8ab1f1
+[1:14 PM, 4/26/2020] Nico Fuentes: [4/14, 21:45] Ivan Pasq: https://www.techradar.com/best/python-online-courses
+[4/16, 01:52] Ivan Pasq: https://towardsdatascience.com/pandas-pivot-the-ultimate-guide-5c693e0771f3
+[4/16, 01:53] Ivan Pasq: https://towardsdatascience.com/the-struggles-of-a-data-scientist-38ec17e76eba
+[4/16, 19:10] Ivan Pasq: https://www.analyticsvidhya.com/blog/2020/04/10-productive-jupyter-notebook-hacks-tips-tricks/
+[4/16, 19:10] Ivan Pasq: https://towardsdatascience.com/python-regex-basics-in-5-minutes-b28c0df8d51d
+[4/18, 18:35] Ivan Pasq: https://towardsdatascience.com/types-of-data-you-need-to-know-as-a-data-scientist-8f432154b5a5
+[4/19, 12:14] Ivan Pasq: https://towardsdatascience.com/53-python-interview-questions-and-answers-91fa311eec3f
+[4/20, 08:16] Ivan Pasq: https://…
+[1:06 AM, 4/27/2020] Ivan: https://towardsdatascience.com/how-to-get-a-job-with-python-575f1b79fa11
+[1:31 AM, 4/27/2020] Ivan: https://towardsdatascience.com/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-78a72b80fd93
+[9:33 AM, 4/27/2020] Ivan: https://www.forbes.com/sites/louiscolumbus/2020/04/26/top-25-machine-learning-startups-to-watch-in-2020/
+[9:36 AM, 4/27/2020] Ivan: https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
+[9:37 AM, 4/27/2020] Ivan: https://towardsdatascience.com/data-science-crash-course-in-depth-linear-regression-fd06511f586c
+[11:38 PM, 4/27/2020] Ivan: https://www.infoworld.com/article/3540434/the-best-free-data-science-courses-during-quarantine.html
+[11:39 PM, 4/27/2020] Ivan: https://towardsdatascience.com/exploring-the-python-pandas-library-67243960271e
+[11:41 PM, 4/27/2020] Ivan: https://towardsdatascience.com/intro-to-dynamic-visualization-with-python-animations-and-interactive-plots-f72a7fb69245
+[12:09 PM, 4/28/2020] Ivan: https://towardsdatascience.com/learn-data-science-the-right-way-92fc9437e64e
+[11:24 PM, 4/28/2020] Nico Fuentes: https://link.springer.com/book/10.1007%2F978-3-319-13072-9
+[11:24 PM, 4/28/2020] Nico Fuentes: free download for  the next 48 hs
+[11:26 PM, 4/28/2020] Nico Fuentes: https://link.springer.com/book/10.1007%2F978-3-030-25943-3
+[11:33 PM, 4/28/2020] Nico Fuentes: Maybe we can speak english here, like we did a while ago. To not lose practice
+[11:33 PM, 4/28/2020] Ivan: Te gane de mano perri
+[11:33 PM, 4/28/2020] Ivan: Okay, I agree
+[11:33 PM, 4/28/2020] Nico Fuentes: great
+[11:34 PM, 4/28/2020] Nico Fuentes: you right
+[11:40 PM, 4/28/2020] Ivan: https://towardsdatascience.com/apple-data-scientist-interview-questions-and-answers-c178c61a9bb3
+[10:33 AM, 4/29/2020] Ivan: https://towardsdatascience.com/41-questions-to-test-your-knowledge-of-python-strings-9eb473aa8fe8
+[5:29 PM, 4/30/2020] Ivan: https://us.pycon.org/2020/online/
+[6:40 PM, 4/30/2020] Ivan: https://hackernoon.com/python-for-data-science-how-to-scrape-website-data-via-the-internets-top-300-apis-cyot32d0
+[10:17 PM, 4/30/2020] Ivan: https://towardsdatascience.com/six-essential-plots-for-time-series-data-analysis-477bd7e778ac
+[2:20 PM, 5/1/2020] Ivan: https://hipertextual.com/2020/04/springer-libros-gratis-cuarentena
+[2:39 PM, 5/1/2020] Ivan: https://medium.com/better-programming/9-productivity-browser-extensions-for-developers-2020-edition-eb84cda6f038
+[8:56 PM, 5/1/2020] Ivan: https://towardsdatascience.com/resources-i-wish-i-knew-when-i-started-out-with-data-science-9a8889654c36
+[8:57 PM, 5/1/2020] Ivan: https://towardsdatascience.com/23-great-pandas-codes-for-data-scientists-cca5ed9d8a38
+[2:50 AM, 5/2/2020] Ivan: https://towardsdatascience.com/bye-bye-python-hello-julia-9230bff0df62
+[5:40 PM, 5/2/2020] Ivan: https://towardsdatascience.com/how-to-get-data-from-apis-with-python-dfb83fdc5b5b
+[1:08 AM, 5/3/2020] Ivan: https://towardsdatascience.com/full-stack-pandas-625f134ce0f6
+[2:44 PM, 5/3/2020] Ivan: https://www.weeklymoneymaker.com/accelerator/?refsrc=10271&wickedsource=google&wickedid=389914521728&wtm_term=youtube.com&wtm_campaign=6934973187&wtm_content=79819681197&wickedplacement=youtube.com&wickedkeyword=&gclid=Cj0KCQjw17n1BRDEARIsAFDHFey-NHzL134VtILTZfrSQQoIrmdCtfgvvaly3-QEbrof7wFISzaz2-saAoh-EALw_wcB
+[12:02 AM, 5/4/2020] Ivan: https://www.analyticsvidhya.com/blog/2020/05/6-open-source-data-science-projects-try-home/
+[2:06 AM, 5/4/2020] Ivan: https://towardsdatascience.com/cpython-internals-how-do-generators-work-ba1c4405b4bc
+[2:09 AM, 5/4/2020] Ivan: https://www.businessinsider.com/teaching-yourself-to-code-at-home-python-perl-programming-languages
+[10:56 AM, 5/5/2020] Ivan: https://towardsdatascience.com/7-tools-to-create-a-rockstar-data-science-portfolio-b31928e62395
+[12:53 PM, 5/5/2020] Ivan: por si alguno esta muy bajo de sql y quiere practicar un rato https://sqlpd.com/ arranca simple pero dsp se va poniendo aspero y toda la practica es como "resolviendo casos policiales" esta bueno
+[12:58 PM, 5/5/2020] Nico Fuentes: Interesante
+[12:58 PM, 5/5/2020] Nico Fuentes: Aprendería sql para hacer eso jajaja
+[12:58 PM, 5/5/2020] Nico Fuentes: Sherlock
+[12:59 PM, 5/5/2020] Ivan: Hahha just do it, it's an easy language
+[12:59 PM, 5/5/2020] Ivan: It's not even a language
+[12:59 PM, 5/5/2020] Ivan: It's like a query tool
+[1:00 PM, 5/5/2020] Ivan: It's easy to learn, and very useful in the real life
+[1:00 PM, 5/5/2020] Ivan: You should give it a try
+[1:01 PM, 5/5/2020] Nico Fuentes: Ok I'll be try
+[1:03 PM, 5/5/2020] Nico Fuentes: I'll be search a lesson in udemy
+[1:03 PM, 5/5/2020] Ivan: It's not necessary
+[1:03 PM, 5/5/2020] Ivan: A have a paid course though
+[1:03 PM, 5/5/2020] Ivan: Yo can check it out with my credentials
+[1:04 PM, 5/5/2020] Nico Fuentes: Ok, in your udemy account right?
+[1:06 PM, 5/5/2020] Nico Fuentes: I know it
+[1:06 PM, 5/5/2020] Nico Fuentes: Yep
+[1:06 PM, 5/5/2020] Nico Fuentes: I'm in
+[1:06 PM, 5/5/2020] Ivan: Hand on bro
+[1:07 PM, 5/5/2020] Ivan: Hands
+[1:07 PM, 5/5/2020] Nico Fuentes: 🙌🏻
+[9:54 AM, 5/6/2020] Ivan: https://towardsdatascience.com/are-you-still-using-pandas-for-big-data-12788018ba1a
+[11:19 AM, 5/7/2020] Ivan: https://towardsdatascience.com/data-science-job-search-tips-during-covid-19-c440c2eadb00
+[12:58 PM, 5/7/2020] Ivan: https://www.forbes.com/sites/lauragarnett/2020/05/06/these-companies-are-still-hiring-heres-their-top-advice-for-getting-hired/
+[11:35 AM, 5/8/2020] Nico Fuentes: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/result/?q=data&degree%5B%5D=2&degree%5B%5D=3&lang%5B%5D=2&lang%5B%5D=3&fos=3&cert=&admReq=&scholarshipLC=&scholarshipSC=&langDeAvailable=&langEnAvailable=&lvlEn%5B%5D=&cit%5B%5D=&tyi%5B%5D=&ins%5B%5D=&fee=&bgn%5B%5D=&dur%5B%5D=&prep_subj%5B%5D=&prep_degree%5B%5D=&sort=4&subjects%5B%5D=&limit=10&offset=&display=list
+[11:36 AM, 5/8/2020] Nico Fuentes: Scholarships in Germany
+[11:36 AM, 5/8/2020] Nico Fuentes: about data science
+[11:37 AM, 5/8/2020] Nico Fuentes: in english, most
+[11:38 AM, 5/8/2020] Nico Fuentes: https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4667/
+[3:53 PM, 5/8/2020] Ivan: https://www.analyticsvidhya.com/blog/2020/05/7-scikit-learn-hacks-tips-tricks/
+[1:06 AM, 5/9/2020] Ivan: https://www.quantamagazine.org/to-win-this-numbers-game-learn-to-avoid-math-patterns-20200507/
+[1:06 AM, 5/9/2020] Ivan: Un poco de matematica, no se Ni de que se trata
+[12:55 PM, 5/9/2020] Ivan: https://weworkremotely.com/remote-jobs/toptal-freelance-python-developer-remote-full-time
+[12:56 PM, 5/9/2020] Ivan: Esta piola para practicar en python
+[1:00 PM, 5/9/2020] Nico Fuentes: Great
+[1:01 PM, 5/9/2020] Nico Fuentes: Don't forget speak in EN
+[1:20 PM, 5/9/2020] Ivan: It's cool for English practicing
+[1:24 AM, 5/11/2020] Ivan: https://www.fool.com/investing/2020/05/10/unemployed-or-furloughed-alteryx-is-launching-a-fr.aspx
+[10:08 AM, 5/11/2020] Ivan: https://towardsdatascience.com/how-i-broke-into-data-science-8f782cc200f4
+[11:07 PM, 5/11/2020] Ivan: https://thefinancialdiet.com/the-10-step-checklist-that-will-make-your-job-search-easier/
+[5:30 PM, 5/12/2020] Ivan: https://analyticsindiamag.com/top-websites-to-find-freelance-data-science-jobs/
+[12:56 AM, 5/13/2020] Ivan: https://www.forbes.com/sites/allbusiness/2020/05/11/lessons-learned-from-my-job-search/
+[9:26 AM, 5/13/2020] Ivan: https://towardsdatascience.com/top-20-skills-and-keywords-for-data-science-6bc6bfc8c28a
+[3:24 PM, 5/13/2020] Ivan: https://itbrief.com.au/story/alteryx-launches-free-data-science-course-looks-to-upskill-global-workforce
+[8:20 AM, 5/14/2020] Ivan: https://towardsdatascience.com/7-handy-use-cases-of-dictionary-comprehensions-in-python-f7c37e462d92
+[8:59 AM, 5/14/2020] Ivan: https://medium.com/analytics-vidhya/top-10-nice-to-have-data-science-libraries-d155196710ef
+[9:04 AM, 5/14/2020] Ivan: https://medium.com/better-programming/convert-tables-from-pdfs-to-pandas-with-python-d74f8ac31dc2
+[9:12 AM, 5/14/2020] Ivan: https://medium.com/better-programming/how-to-automate-your-emails-with-python-386b4e2d5395
+[9:13 AM, 5/14/2020] Ivan: https://towardsdatascience.com/python-etl-tools-best-8-options-5ef731e70b49
+[1:43 PM, 5/14/2020] Ivan: https://towardsdatascience.com/9-pandas-visualizations-techniques-for-effective-data-analysis-fc17feb651db
+[12:26 AM, 5/15/2020] Ivan: https://www.flerlagetwins.com/2020/05/floor-plan.html
+[5:44 PM, 5/15/2020] Ivan: https://www.infoworld.com/article/3542595/6-python-libraries-for-parallel-processing.html
+[1:09 PM, 5/16/2020] Ivan: https://towardsdatascience.com/reshape-pandas-dataframe-with-melt-in-python-tutorial-and-visualization-29ec1450bb02
+[6:30 PM, 5/16/2020] Nico Fuentes: I completed the trial version with 11 cases
+[6:31 PM, 5/16/2020] Nico Fuentes: So easy
+[6:32 PM, 5/16/2020] Nico Fuentes: But now I should pay $20 for the next level
+[6:32 PM, 5/16/2020] Nico Fuentes: Haha
+[6:33 PM, 5/16/2020] Nico Fuentes: It's a joke?
+[7:40 PM, 5/16/2020] Nico Fuentes: Anyway, I expected more difficulty
+[7:55 PM, 5/16/2020] Ivan: Good job my men
+[7:55 PM, 5/16/2020] Ivan: I will share you new challanges
+[7:56 PM, 5/16/2020] Nico Fuentes: Thanks bro
+[10:29 PM, 5/16/2020] Ivan: https://medium.com/mind-cafe/you-will-destroy-yourself-financially-if-you-save-9d7ece62d05f
+[1:44 AM, 5/17/2020] Ivan: https://towardsdatascience.com/2-easy-ways-to-get-tables-from-a-website-with-pandas-b92fc835e741
+[12:14 PM, 5/17/2020] Ivan: https://towardsdatascience.com/intro-to-markov-chain-monte-carlo-c6f217e00345
+[3:24 PM, 5/18/2020] Ivan: https://machinelearningmastery.com/statistical-imputation-for-missing-values-in-machine-learning/
+[11:48 PM, 5/18/2020] Ivan: https://www.today.com/money/how-find-job-during-coronavirus-pandemic-t181852
+[12:59 PM, 5/20/2020] Ivan: https://blog.udacity.com/2020/05/udacity-aws-partner-to-offer-scholarships-for-premium-machine-learning-engineer-nanodegree-program.html
+[1:25 PM, 5/22/2020] Ivan: https://www.businessinsider.com/what-to-include-in-your-resume-job-seekers-job-application-2020-5
+[8:08 PM, 5/22/2020] Ivan: https://www.toptal.com/python/web-scraping-with-python
+[11:03 AM, 5/24/2020] Ivan: https://towardsdatascience.com/a-really-simple-way-to-edit-row-by-row-in-a-pandas-dataframe-75d339cbd313
+[12:22 PM, 5/24/2020] Ivan: https://towardsdatascience.com/from-scratch-bayesian-inference-markov-chain-monte-carlo-and-metropolis-hastings-in-python-ef21a29e25a
+[10:44 AM, 5/25/2020] Ivan: https://www.analyticsvidhya.com/blog/2020/05/10-matplotlib-tricks-data-visualization-python/
+[10:44 AM, 5/25/2020] Ivan: https://www.dailymail.co.uk/femail/article-8353515/Recruiter-reveals-major-mistakes-job-seekers-make-cover-letters-improve-yours.html
+[7:53 PM, 5/25/2020] Ivan: https://towardsdatascience.com/top-10-great-sites-with-free-data-sets-581ac8f6334
+[7:54 PM, 5/25/2020] Ivan: https://towardsdatascience.com/5-books-that-will-teach-you-the-math-behind-machine-learning-714f7fa914ca
+[7:55 PM, 5/25/2020] Ivan: https://medium.com/better-programming/6-programming-habits-that-surprisingly-not-many-developers-have-c58acd9a67f3
+[11:40 PM, 5/25/2020] Ivan: https://www.forbes.com/sites/dawngraham/2020/05/25/the-7-biggest-job-search-mistakes-that-are-the-easiest-to-fix/
+[10:49 AM, 5/26/2020] Nico Fuentes: what does 'clean up your code'? clear the script and start again?
+[10:50 AM, 5/26/2020] Ivan: I didn't read that article
+[10:50 AM, 5/26/2020] Ivan: I'll tell you later
+[10:50 AM, 5/26/2020] Nico Fuentes: Don't worry
+[12:51 PM, 5/26/2020] Ivan: https://thenextweb.com/syndication/2020/05/26/5-cognitive-biases-in-data-science-and-how-to-avoid-them/
+[3:07 PM, 5/26/2020] Ivan: https://analyticsindiamag.com/recent-data-science-jobs-for-freshers-to-apply-right-now/
+[12:11 PM, 5/27/2020] Ivan: https://towardsdatascience.com/how-to-write-a-great-data-science-cv-27c2f0f549d9
+[12:49 AM, 5/28/2020] Ivan: https://www.infotechnology.com/amp/online/Estos-son-los-5-lugares-para-comprar-dolares-ilimitados-desde-Argentina-cual-tiene-el-mejor-precio-20200527-0007.html
+[12:54 AM, 5/28/2020] Ivan: https://towardsdatascience.com/15-tips-and-tricks-to-use-jupyter-notebook-more-efficiently-ef05ede4e4b9
+[12:54 AM, 5/28/2020] Ivan: https://towardsdatascience.com/real-world-example-on-web-scraping-with-selenium-and-beautiful-soup-3e615dbc1fa1
+[1:04 AM, 5/28/2020] Ivan: https://towardsdatascience.com/data-classes-in-python-8d1a09c1294b
+[3:07 PM, 5/28/2020] Ivan: https://www.forbes.com/sites/forbescoachescouncil/2020/05/27/14-questions-job-seekers-shouldnt-ask-during-interviews/
+[4:52 PM, 5/28/2020] Ivan: https://insights.dice.com/2020/05/28/tableau-training-5-things-you-need-know/
+[4:52 PM, 5/28/2020] Ivan: https://medium.com/better-programming/20-things-to-know-to-master-lists-in-python-e3417f4c28cf
+[3:52 PM, 5/29/2020] Ivan: https://towardsdatascience.com/a-better-way-to-become-a-data-scientist-than-online-courses-2abc343d4d55
+[5:08 PM, 5/29/2020] Ivan: https://celadonsoft.com/ai-ml/complete-beginners-guide-to-web-scraping
+[7:29 PM, 5/29/2020] Ivan: https://www.browserstack.com/guide/python-selenium-to-run-web-automation-test
+[11:28 AM, 5/30/2020] Ivan: https://hackaday.com/2020/05/30/job-application-script-automates-the-boring-stuff-with-python/
+[11:31 AM, 5/30/2020] Ivan: https://www.theladders.com/career-advice/recruiters-share-the-one-thing-they-wish-applicants-knew-about-resume-writing
+[10:33 PM, 6/1/2020] Ivan: https://towardsdatascience.com/ultimate-guide-to-python-debugging-854dea731e1b
+[9:15 AM, 6/2/2020] Ivan: https://www.analyticsvidhya.com/blog/2020/06/feature-engineering-guide-data-science-hackathons/
+[5:26 PM, 6/4/2020] Ivan: https://www.theladders.com/career-advice/this-is-what-you-can-and-should-lie-about-on-your-resume-according-to-employers
+[11:21 AM, 6/5/2020] Ivan: https://towardsdatascience.com/machine-learning-classifiers-comparison-with-python-33149aecdbca
+[10:56 PM, 6/5/2020] Ivan: https://towardsdatascience.com/how-i-land-my-first-job-in-data-science-e3c2d3fd3fd2
+[10:56 PM, 6/5/2020] Ivan: https://realpython.com/podcasts/rpp/12/
+[12:36 AM, 6/6/2020] Ivan: https://towardsdatascience.com/do-you-have-these-python-speedup-skills-3fd9e7758765
+[12:46 AM, 6/6/2020] Ivan: https://www.forbes.com/sites/dawngraham/2020/06/04/how-to-conduct-a-successful-job-search-when-in-a-negative-place/
+[11:23 AM, 6/6/2020] Ivan: https://www.kdnuggets.com/2020/06/start-statistics-all-over-again.html
+[9:40 AM, 6/8/2020] Ivan: https://towardsdatascience.com/8-simple-techniques-to-prevent-overfitting-4d443da2ef7d
+[2:12 PM, 6/8/2020] Ivan: https://www.sirchandler.com.ar/2020/06/comprando-en-amazon-espana-pagando-en-pesos-y-recibiendo-normalmente/
+[6:24 PM, 6/8/2020] Ivan: https://towardsdatascience.com/using-browser-cookies-and-voyager-api-to-scrape-linkedin-via-python-25e4ae98d2a8
+[7:13 PM, 6/8/2020] Ivan: https://au.finance.yahoo.com/news/resume-writer-6-changes-014229893.html
+[10:15 PM, 6/9/2020] Ivan: https://towardsdatascience.com/how-i-would-learn-data-science-if-i-had-to-start-over-f3bf0d27ca87
+[2:29 PM, 6/10/2020] Ivan: https://towardsdatascience.com/machine-learning-is-getting-easier-software-engineering-is-still-hard-d4e8320bc046
+[3:46 PM, 6/10/2020] Ivan: https://towardsdatascience.com/how-to-build-a-data-science-web-app-in-python-61d1bed65020
+[8:53 AM, 6/11/2020] Ivan: https://towardsdatascience.com/the-essential-skills-most-data-science-courses-wont-teach-you-5ceb0c4d17ce
+[10:03 PM, 6/11/2020] Ivan: https://thenextweb.com/syndication/2020/06/11/web-scraping-with-python-common-roadblocks-and-solutions-certificate-iframes-javascriptt/
+[12:34 AM, 6/12/2020] Ivan: https://towardsdatascience.com/the-easy-way-to-web-scrape-articles-online-d28947fc5979
+[1:20 PM, 6/12/2020] Ivan: https://towardsdatascience.com/a-probability-crash-course-for-data-science-cd4b4fae03bc
+[11:23 PM, 6/12/2020] Ivan: https://towardsdatascience.com/style-your-pandas-dataframes-814e6a078c6d
+[8:17 PM, 6/13/2020] Ivan: https://towardsdatascience.com/i-worked-through-500-data-science-interview-questions-51e2e4dead9d
+[8:17 PM, 6/13/2020] Ivan: https://towardsdatascience.com/using-pandas-pipe-function-to-improve-code-readability-96d66abfaf8
+[1:07 AM, 6/14/2020] Ivan: https://towardsdatascience.com/a-practical-guide-on-missing-values-with-pandas-8fb3e0b46c24
+[1:42 AM, 6/14/2020] Ivan: https://towardsdatascience.com/5-regression-algorithms-explanation-implementation-in-python-3b6143b47a9d
+[11:58 AM, 6/14/2020] Ivan: https://medium.com/better-programming/how-to-handle-and-raise-exceptions-in-python-12-things-to-know-4dfef7f02e4
+[3:00 PM, 6/14/2020] Ivan: https://medium.com/@shivashishdf.thakur/top-skills-that-will-save-your-data-science-career-in-the-post-covid-era-4dfeab70529b
+[12:34 PM, 6/15/2020] Ivan: https://towardsdatascience.com/how-to-web-scrape-in-8-minutes-4a100a672397
+[2:11 PM, 6/15/2020] Ivan: https://towardsdatascience.com/10-techniques-to-speed-up-python-runtime-95e213e925dc
+[9:29 AM, 6/16/2020] Ivan: https://towardsdatascience.com/linear-regression-the-actually-complete-introduction-67152323fcf2
+[10:41 AM, 6/16/2020] Ivan: https://www.revistalideres.ec/lideres/estrategias-busqueda-formacion-universidades.html
+[12:13 PM, 6/16/2020] Ivan: https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131
+[10:19 PM, 6/17/2020] Ivan: https://www.kdnuggets.com/2020/06/best-machine-learning-youtube-videos-under-10-minutes.html
+[12:52 PM, 6/18/2020] Ivan: https://opensource.com/article/20/6/python-tools
+[11:49 AM, 6/19/2020] Ivan: https://becasyconvocatorias.org/becas-monbukagakusho-en-japon-para-nivel-tecnico-pregrado-o-maestria/
+[11:51 AM, 6/19/2020] Ivan: https://towardsdatascience.com/12-python-tips-and-tricks-for-writing-better-code-b57e7eea580b
+[1:40 AM, 6/20/2020] Ivan: https://towardsdatascience.com/data-science-is-dead-long-live-business-science-a3059fe84e6c
+[4:27 AM, 6/21/2020] Ivan: https://towardsdatascience.com/top-10-data-science-leaders-you-should-follow-in-2020-28ff75776ca7
+[1:10 PM, 6/21/2020] Ivan: https://towardsdatascience.com/letter-to-a-young-data-scientist-a0209df62091
+[2:51 PM, 6/21/2020] Ivan: https://www.genbeta.com/desarrollo/twilioquest-videojuego-rol-gratis-para-windows-linux-macos-que-puedes-aprender-a-programar
+[5:22 PM, 6/21/2020] Ivan: https://towardsdatascience.com/how-to-explain-each-machine-learning-model-at-an-interview-499d82f91470
+[5:29 PM, 6/21/2020] Ivan: https://towardsdatascience.com/the-ultimate-guide-for-data-visualization-c98de0d3158d
+[10:45 PM, 6/21/2020] Ivan: https://towardsdatascience.com/a-layman-guide-for-data-scientists-to-create-apis-in-minutes-31e6f451cd2f
+[1:04 AM, 6/22/2020] Ivan: https://towardsdatascience.com/solving-mazes-with-python-f7a412f2493f
+[10:58 AM, 6/22/2020] Ivan: https://towardsdatascience.com/building-a-simple-text-recognizer-in-python-93e453ddb759
+[11:04 AM, 6/22/2020] Ivan: https://towardsdatascience.com/efficient-web-scraping-with-scrapy-571694d52a6
+[12:49 AM, 6/23/2020] Ivan: https://www.analyticsinsight.net/top-10-computer-vision-tools-for-2020/
+[12:49 AM, 6/23/2020] Ivan: https://towardsdatascience.com/dream-of-becoming-a-big-data-engineer-discover-what-sets-us-apart-from-software-engineers-603c7f8c2c29
+[12:58 AM, 6/23/2020] Ivan: https://towardsdatascience.com/decorators-in-python-fundamentals-for-data-scientists-eada7f4eba85
+[9:48 AM, 6/23/2020] Ivan: https://towardsdatascience.com/how-i-optimized-my-data-analysis-practices-hacks-libraries-you-should-start-using-3a7308b668da
+[1:00 PM, 6/23/2020] Ivan: https://www.analyticsvidhya.com/blog/2020/06/get-started-kaggle-competitions/
+[7:36 PM, 6/23/2020] Ivan: https://towardsdatascience.com/i-worked-through-500-data-science-interview-questions-51e2e4dead9d
+[10:37 PM, 6/23/2020] Ivan: https://medium.com/better-programming/how-you-can-master-the-facebook-coding-interview-591ca3cbb508
+[9:03 AM, 6/24/2020] Ivan: https://www.businessinsider.com/free-mit-online-computer-science-classes
+[11:23 AM, 6/24/2020] Ivan: https://www.infotechnology.com/online/Los-mejores-cursos-de-programacion-de-edX-por-ahora-son-gratis-y-permiten-presentarte-en-una-entrevista-laboral-20200622-0007.html
+[1:51 PM, 6/24/2020] Ivan: https://developers.google.com/edu/python/regular-expressions
+[2:43 PM, 6/24/2020] Ivan: https://towardsdatascience.com/data-science-questions-for-interview-prep-machine-learning-concepts-part-ii-b7b58e74a1b7
+[9:45 AM, 6/25/2020] Ivan: https://towardsdatascience.com/roadmap-to-natural-language-processing-nlp-38a81dcff3a6
+[9:45 AM, 6/25/2020] Ivan: https://towardsdatascience.com/how-can-a-beginner-data-scientist-like-me-gain-experience-df2d4d718ad7
+[9:45 AM, 6/25/2020] Ivan: https://towardsdatascience.com/80-python-interview-practice-questions-f1640eea66ac
+[12:49 PM, 6/25/2020] Ivan: https://towardsdatascience.com/top-9-jupyter-notebook-extensions-7a5d30269bc8
+[4:02 PM, 6/25/2020] Ivan: https://towardsdatascience.com/how-i-learned-tableau-in-1-day-8db80c167f9d
+[5:39 PM, 6/25/2020] Ivan: https://towardsdatascience.com/8-advanced-python-tricks-used-by-seasoned-programmers-757804975802
+[3:26 PM, 6/26/2020] Ivan: https://towardsdatascience.com/how-to-use-multiindex-in-pandas-to-level-up-your-analysis-aeac7f451fce
+[2:52 AM, 6/27/2020] Ivan: https://medium.com/@marco_santos/how-to-collect-data-from-any-website-cb8fad9e9ec5
+[1:03 PM, 6/27/2020] Ivan: https://www.analyticsvidhya.com/blog/2020/06/22-tools-data-science-machine-learning/
+[12:24 PM, 6/29/2020] Ivan: https://towardsdatascience.com/machine-learning-in-data-science-interviews-e03f26904375
+[6:05 PM, 6/30/2020] Ivan: https://dzone.com/articles/top-10-algorithms-for-the-coding-interview-for-sof
+[9:23 AM, 7/1/2020] Ivan: https://towardsdatascience.com/how-to-scrape-any-website-with-python-and-beautiful-soup-bc84e95a3483
+[11:03 PM, 7/2/2020] Ivan: https://www.forbes.com/sites/tonyewing/2020/07/02/7-science-backed-habits-of-outrageously-successful-job-seekers/
+[10:15 AM, 7/3/2020] Ivan: https://towardsdatascience.com/the-4-steps-to-branching-in-git-that-data-scientists-should-know-3473c70aaa7a
+[10:20 AM, 7/3/2020] Ivan: https://www.analyticsvidhya.com/blog/2020/07/python-style-guide/
+[10:55 AM, 7/3/2020] Ivan: https://mustakbilcorner.com/2500-free-online-courses/
+[2:44 PM, 7/3/2020] Ivan: https://towardsdatascience.com/how-did-i-learn-data-science-in-2-months-8f72c5f5b401
+[2:49 PM, 7/3/2020] Ivan: https://blog.coursera.org/natural-language-processing-specialization-from-deeplearning-ai-qa-with-younes-bensouda-mourri/
+[5:50 PM, 7/3/2020] Ivan: https://www.freecodecamp.org/news/python-curriculum-is-live/
+[9:07 PM, 7/6/2020] Nico Fuentes: http://matematicaeducativa.com/foro/download/file.php?id=1874&sid=1fe65832f6d8643202ad2743cefa9527
+[9:08 PM, 7/6/2020] Nico Fuentes: Statistic for engineers
+[9:48 PM, 7/6/2020] Ivan: Nice
+[11:22 PM, 7/6/2020] Ivan: https://www.self.com/story/stretching-workouts-on-youtube
+[11:18 PM, 7/7/2020] Ivan: https://machinelearningmastery.com/model-based-outlier-detection-and-removal-in-python/
+[1:26 PM, 7/8/2020] Ivan: https://www.analyticsinsight.net/top-10-natural-language-processing-online-courses/
+[12:49 AM, 7/9/2020] Nico Fuentes: 🇦🇷 ¡Mañana Edición Especial #9dejulio!! 🇦🇷
+
+¿Cuánto sabes sobre historia argentina?!! 😎
+
+💰 Resuelve los 12 acertijos del Capitán Hash y gana el tesoro con $25.000 btc!!💰
+[12:20 PM, 7/10/2020] Ivan: https://levelup.gitconnected.com/elusive-python-features-that-will-make-you-an-expert-aaa50c2a6606
+[12:20 PM, 7/10/2020] Ivan: My bad bro, I'm sorry
+[12:30 PM, 7/10/2020] Ivan: https://towardsdatascience.com/4-different-ways-to-efficiently-sort-a-pandas-dataframe-9aba423f12db
+[12:31 PM, 7/10/2020] Ivan: https://towardsdatascience.com/clustering-metrics-better-than-the-elbow-method-6926e1f723a6
+[2:18 PM, 7/10/2020] Nico Fuentes: Don't worry bro. Anyway, dosen't matter
+[10:51 PM, 7/10/2020] Ivan: https://towardsdatascience.com/preparation-guide-for-data-science-interviews-69932d30c7c4
+[3:31 AM, 7/12/2020] Ivan: https://towardsdatascience.com/the-most-important-skill-a-data-scientist-should-possess-d0700de3e5fa
+[4:07 PM, 7/12/2020] Ivan: https://www.nicksingh.com/posts/40-probability-statistics-data-science-interview-questions-asked-by-fang-wall-street
+[7:59 PM, 7/12/2020] Nico Fuentes: We should be return to data science challenges, someday.
+[7:59 PM, 7/12/2020] Nico Fuentes: What do you think?
+[8:15 PM, 7/12/2020] Ivan: It's a great idea bro
+[8:15 PM, 7/12/2020] Ivan: We need to do it
+[9:10 AM, 7/13/2020] Ivan: https://www.analyticsvidhya.com/blog/2020/07/5-striking-pandas-tips-and-tricks-for-analysts-and-data-scientists/
+[11:50 AM, 7/13/2020] Ivan: https://towardsdatascience.com/features-you-likely-dont-use-in-python-3-but-you-should-2d79dba4cfb3
+[12:44 PM, 7/13/2020] Ivan: https://www.forbes.com/sites/johnkoetsier/2020/07/11/ai--iot--1000x-more-dense-networking-environments-how-intel-nsf-are-planning-for-tomorrow/
+[1:28 AM, 7/15/2020] Ivan: https://www.kdnuggets.com/2020/07/foundations-data-science-free-ebook.html
+[1:28 AM, 7/15/2020] Ivan: https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/
+[9:42 PM, 7/15/2020] Ivan: https://towardsdatascience.com/5-best-practices-for-data-visualization-c3c875fb2b03
+[5:13 PM, 7/16/2020] Ivan: https://towardsdatascience.com/introduction-to-python-for-data-science-6d1dba7c305c
+[4:17 PM, 7/17/2020] Ivan: https://towardsdatascience.com/hypothesis-testing-a-b-tests-explained-4d89de6b4ad2
+[3:12 AM, 7/18/2020] Ivan: https://towardsdatascience.com/the-complete-guide-to-auc-and-average-precision-cf1d4647efc3
+[6:05 PM, 7/18/2020] Ivan: https://towardsdatascience.com/the-single-best-introductory-statistics-book-for-data-science-a2601ea7c0be
+[9:57 PM, 7/19/2020] Ivan: https://towardsdatascience.com/probability-theory-in-data-science-bacb073edf1f
+[11:08 PM, 7/21/2020] Ivan: https://towardsdatascience.com/top-4-repositories-on-github-to-learn-pandas-1008cb769f77
+[9:26 PM, 7/22/2020] Ivan: https://towardsdatascience.com/the-top-three-lessons-learned-building-more-than-1-000-machine-learning-models-3fe188fdb4dd
+[12:40 AM, 7/23/2020] Ivan: https://towardsdatascience.com/fundamentals-of-regression-what-why-and-how-37ae02489e19
+[9:01 AM, 7/23/2020] Ivan: https://towardsdatascience.com/hypothesis-testing-demystified-e434a665e055
+[10:24 AM, 7/23/2020] Ivan: https://www.insider.com/live-and-work-remotely-in-bermuda-residency-certificate-2020-7
+[8:26 PM, 7/28/2020] Ivan: https://towardsdatascience.com/how-do-a-b-tests-work-996842ce6fc0
+[1:51 PM, 7/29/2020] Ivan: https://towardsdatascience.com/data-science-projects-that-will-get-you-the-job-805065e7260
+[12:26 AM, 7/30/2020] Ivan: https://towardsdatascience.com/writing-lambda-expressions-in-python-745288614a39?source=rss----7f60cf5620c9---4
+[5:57 PM, 7/30/2020] Ivan: https://towardsdatascience.com/data-science-interviews-probability-and-statistics-31b9d03309c4
+[11:01 PM, 7/30/2020] Ivan: https://towardsdatascience.com/matplotlib-cheat-sheet-f441c43971c4
+[3:41 PM, 7/31/2020] Ivan: https://towardsdatascience.com/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27
+[5:15 PM, 7/31/2020] Ivan: https://towardsdatascience.com/indexing-data-in-pandas-b1ed30cc4a9d
+[10:57 PM, 7/31/2020] Ivan: https://towardsdatascience.com/using-string-methods-in-pandas-5e4509ff1f5f
+[2:21 AM, 8/1/2020] Ivan: https://robinsones.github.io/Guidelines-for-AB-Testing/
+[3:26 PM, 8/1/2020] Ivan: https://towardsdatascience.com/8-ml-ai-projects-to-make-your-portfolio-stand-out-bfc5be94e063
+[3:49 PM, 8/2/2020] Ivan: https://towardsdatascience.com/write-better-python-code-with-these-10-tricks-30b7018e247a
+[6:07 PM, 8/3/2020] Ivan: https://www.kdnuggets.com/2020/08/employers-expecting-data-scientist-role-2020.html
+[10:46 PM, 8/3/2020] Ivan: https://towardsdatascience.com/text-data-analysis-and-manipulation-with-pandas-97a050aedd3c
+[1:00 AM, 8/4/2020] Ivan: https://towardsdatascience.com/how-to-teach-programming-to-people-in-prison-without-computers-c455baca7f19
+[1:05 AM, 8/5/2020] Ivan: https://www.kdnuggets.com/2020/08/5-spark-best-practices-data-science.html
+[1:08 AM, 8/5/2020] Ivan: https://towardsdatascience.com/how-to-identify-the-right-independent-variables-for-machine-learning-supervised-algorithms-439986562d32
+[11:56 AM, 8/6/2020] Ivan: https://towardsdatascience.com/which-python-data-science-package-should-i-use-when-e98c701364c
+[10:08 PM, 8/9/2020] Ivan: https://towardsdatascience.com/a-framework-for-learning-new-data-science-concepts-quickly-4a691250dc5c
+[1:06 PM, 8/10/2020] Ivan: https://towardsdatascience.com/data-scientist-must-know-statistics-a161fa7c1bca
+[2:46 PM, 8/10/2020] Ivan: https://towardsdatascience.com/working-with-outliers-ols-vs-robust-regressions-5cf861168ac4
+[12:39 AM, 8/11/2020] Ivan: https://towardsdatascience.com/you-can-do-everything-in-pandas-with-sql-354adb30fbf9
+[1:13 PM, 8/11/2020] Ivan: https://towardsdatascience.com/12-papers-you-should-read-to-understand-object-detection-in-the-deep-learning-era-3390d4a28891
+[1:21 PM, 8/11/2020] Ivan: https://conversionista.com/en/blogg/the-21-most-frequently-asked-questions-about-a-b-testing/
+[11:07 PM, 8/11/2020] Ivan: https://opensource.com/article/20/8/edit-images-python
+[11:10 PM, 8/11/2020] Ivan: https://uxdesign.cc/a-primer-on-a-b-testing-1bb48c69a5c3
+[9:51 AM, 8/12/2020] Ivan: https://towardsdatascience.com/how-to-learn-data-science-and-start-your-amazing-journey-7de3f7757157
+[11:02 AM, 8/12/2020] Ivan: https://towardsdatascience.com/how-to-make-your-python-code-more-functional-b82dad274707
+[10:55 PM, 8/12/2020] Ivan: https://towardsdatascience.com/logging-explained-in-5-minutes-walkthrough-with-python-8bd7d8c2cf3a
+[9:39 PM, 8/13/2020] Ivan: https://thenextweb.com/syndication/2020/08/13/check-out-these-lesser-known-python-features/
+[11:31 AM, 8/14/2020] Ivan: https://towardsdatascience.com/youre-living-in-1985-if-you-don-t-use-docker-for-your-data-science-projects-858264db0082
+[3:30 PM, 8/14/2020] Ivan: https://towardsdatascience.com/understanding-statistics-and-probability-becoming-an-expert-data-scientist-b178e4175642
+[4:50 PM, 8/14/2020] Ivan: https://towardsdatascience.com/5-simple-one-liners-youve-been-looking-for-to-level-up-your-python-visualization-42ebc1deafbc
+[8:44 PM, 8/14/2020] Ivan: https://towardsdatascience.com/two-pointer-technique-solving-array-problems-at-light-speed-56a77ee83d16
+[2:57 PM, 8/15/2020] Ivan: https://towardsdatascience.com/what-makes-a-data-analyst-excellent-17ee4651c6db
+[4:01 PM, 8/16/2020] Ivan: https://towardsdatascience.com/natural-language-processing-nlp-dont-reinvent-the-wheel-8cf3204383dd
+[11:47 PM, 8/17/2020] Ivan: https://towardsdatascience.com/customer-segmentation-k-means-clustering-a-b-testing-bd26a94462dd
+[2:08 PM, 8/18/2020] Ivan: https://towardsdatascience.com/nothing-fancy-but-16-essential-operations-to-get-you-started-with-pandas-5b0c2f649068
+[4:47 PM, 8/18/2020] Ivan: https://towardsdatascience.com/5-essential-pandas-tricks-you-didnt-know-about-2d1a5b6f2e7
+[9:36 AM, 8/19/2020] Ivan: https://towardsdatascience.com/python-type-annotations-and-why-you-should-use-them-6f647c6b4e9c
+[9:45 AM, 8/19/2020] Ivan: https://towardsdatascience.com/30-python-interview-questions-that-worth-reading-63b868e682e5
+[8:42 AM, 8/21/2020] Ivan: https://towardsdatascience.com/perfectly-pythonic-python-stuff-that-you-should-definitely-know-daa559528d58
+[12:11 AM, 8/22/2020] Ivan: https://realpython.com/podcasts/rpp/23/
+[9:57 AM, 8/22/2020] Nico Fuentes: U come back someday, bro?
+[12:50 PM, 8/22/2020] Ivan: Hey bro, I will, I don't know when though
+[7:51 PM, 8/22/2020] Ivan: https://towardsdatascience.com/data-structures-in-python-da813beb2a0d
+[11:13 PM, 8/22/2020] Ivan: https://towardsdatascience.com/a-complete-guide-to-confidence-interval-and-examples-in-python-ff417c5cb593
+[12:49 PM, 8/23/2020] Ivan: https://www.fast.ai/2020/08/19/data-ethics/
+[8:59 PM, 8/24/2020] Ivan: https://realpython.com/python-mmap/
+[11:52 PM, 8/25/2020] Ivan: https://thenextweb.com/neural/2020/08/25/practical-natural-language-processing-a-must-read-for-anyone-who-wants-to-become-seriously-involved-in-nlp-syndication/
+[5:00 PM, 8/26/2020] Ivan: https://www.xataka.com/n/nueve-industrias-que-aplican-ciencia-datos-para-solucionar-problemas-reales
+[5:35 PM, 8/26/2020] Ivan: https://www.analyticsvidhya.com/blog/2020/08/top-4-sentence-embedding-techniques-using-python/
+[9:41 AM, 8/27/2020] Ivan: https://towardsdatascience.com/top-7-repositories-on-github-to-learn-python-44a3a7accb44
+[10:54 AM, 8/31/2020] Ivan: https://towardsdatascience.com/getting-started-with-docker-for-data-scientists-a2ed505e2a09
+[10:57 AM, 8/31/2020] Ivan: https://towardsdatascience.com/pandas-what-ive-learned-after-my-1st-on-site-technical-interview-4fb94dbc1b45
+[9:27 PM, 8/31/2020] Ivan: https://analyticsindiamag.com/hands-on-guide-to-stanfordnlp-a-python-wrapper-for-popular-nlp-library-corenlp/
+[9:30 PM, 8/31/2020] Ivan: https://towardsdatascience.com/top-5-statistical-concepts-every-data-scientist-must-know-d4bc8740a55d
+[10:11 AM, 9/1/2020] Ivan: https://towardsdatascience.com/5-data-science-interview-mistakes-ive-made-59afcd41744f
+[4:45 PM, 9/1/2020] Ivan: https://towardsdatascience.com/how-to-create-the-most-awesome-development-setup-for-data-science-using-atom-261113b46be8
+[10:38 AM, 9/2/2020] Ivan: https://towardsdatascience.com/python-programming-concepts-that-made-my-code-efficient-68f92f8a39d0
+[10:20 AM, 9/3/2020] Ivan: https://towardsdatascience.com/11-examples-to-master-pandas-groupby-function-86e0de574f38
+[1:19 PM, 9/3/2020] Ivan: https://towardsdatascience.com/7-advanced-tricks-in-pandas-for-data-science-41a71632b5d9
+[10:33 PM, 9/3/2020] Ivan: https://towardsdatascience.com/in-depth-pandas-tutorial-5d896483ba8a
+[10:02 AM, 9/4/2020] Ivan: https://towardsdatascience.com/how-i-became-kaggle-3x-expert-in-just-1-month-b63b37b53865
+[10:06 AM, 9/4/2020] Ivan: https://towardsdatascience.com/data-visualization-with-python-8bc988e44f22
+[6:16 PM, 9/6/2020] Ivan: https://towardsdatascience.com/best-resources-for-mastering-python-2356b8be0ece
+[9:31 PM, 9/6/2020] Ivan: https://towardsdatascience.com/unit-testing-for-data-scientists-dc5e0cd397fb
+[12:16 PM, 9/7/2020] Ivan: https://towardsdatascience.com/10-things-you-didnt-know-about-pandas-d20f06d1bf6b
+[8:43 AM, 9/8/2020] Ivan: https://towardsdatascience.com/the-best-exploratory-data-analysis-with-pandas-profiling-e85b4d514583
+[9:26 AM, 9/8/2020] Ivan: https://www.youtube.com/watch?v=ZzqkrBOxtes
+[9:20 AM, 9/10/2020] Ivan: https://www.analyticsvidhya.com/blog/2020/09/10-things-know-before-first-data-science-project/
+[7:22 PM, 9/10/2020] Ivan: https://towardsdatascience.com/building-your-brand-in-data-science-840ba5baaff9
+[10:43 PM, 9/10/2020] Ivan: https://analyticsindiamag.com/three-skills-that-makes-you-a-successful-data-scientist-as-per-this-chief-data-scientist/
+[9:49 AM, 9/11/2020] Ivan: https://towardsdatascience.com/how-id-learn-data-science-if-i-could-start-over-2-years-in-b821d8a4876c
+[2:41 PM, 9/12/2020] Ivan: https://towardsdatascience.com/data-scientist-should-know-software-engineering-best-practices-f964ec44cada
+[2:41 PM, 9/12/2020] Ivan: https://towardsdatascience.com/python-books-you-must-read-in-2020-a0fc33798bb
+[11:27 PM, 9/12/2020] Ivan: https://www.easel.ly/blog/types-of-graphs-and-charts-for-visualizing-data/
+[2:00 PM, 9/13/2020] Ivan: https://towardsdatascience.com/exploratory-data-analysis-ideas-for-image-classification-d3fc6bbfb2d2
+[2:27 PM, 9/14/2020] Ivan: https://towardsdatascience.com/4-pandas-tricks-that-most-people-dont-know-86a70a007993
+[2:48 PM, 9/14/2020] Ivan: https://www.forbes.com/sites/forbestechcouncil/2020/09/14/finding-the-best-online-nlp-courses-for-2021/
+[2:38 PM, 9/16/2020] Ivan: https://towardsdatascience.com/step-by-step-guide-to-explaining-your-ml-project-during-a-data-science-interview-81dfaaa408bf
+[2:47 PM, 9/16/2020] Ivan: https://towardsdatascience.com/7-numpy-tricks-to-make-my-code-better-and-smarter-9e8a4ccf43d1
+[10:14 PM, 9/16/2020] Ivan: https://towardsdatascience.com/how-i-got-4-data-science-offers-and-doubled-my-income-2-months-after-being-laid-off-b3b6d2de6938
+[11:50 AM, 9/17/2020] Ivan: https://www.mdzol.com/mundo/2020/9/16/oportunidad-de-trabajo-buscan-argentinos-para-vivir-en-canada-105533.html
+[2:23 PM, 9/17/2020] Ivan: https://towardsdatascience.com/filtering-data-frames-in-pandas-b570b1f834b9
+[3:32 PM, 9/17/2020] Ivan: https://towardsdatascience.com/random-forest-explained-7eae084f3ebe
+[6:32 PM, 9/17/2020] Ivan: https://opensource.com/article/20/9/teach-python-jupyter
+[12:00 PM, 9/18/2020] Ivan: https://daily.dev/posts/the-best-coding-challenges-websites-for-beginners
+[12:00 PM, 9/18/2020] Ivan: https://towardsdatascience.com/introduction-to-cleaning-data-with-pandas-private-munich-housemarket-data-set-be5fc558c9e3
+[7:04 PM, 9/19/2020] Ivan: https://towardsdatascience.com/5-free-books-to-take-your-data-science-skills-to-the-next-level-a2026c8cad71
+[10:54 AM, 9/20/2020] Ivan: https://towardsdatascience.com/how-to-get-a-data-science-interview-job-referral-5bb9ff2ed8c9
+[5:50 PM, 9/20/2020] Ivan: https://svitla.com/blog/machine-learning-interview-questions
+[6:12 PM, 9/20/2020] Ivan: https://towardsdatascience.com/learn-linear-regression-using-scikit-learn-and-nba-data-data-science-with-sports-9908b0f6a031
+[8:17 PM, 9/20/2020] Ivan: https://towardsdatascience.com/how-to-evaluate-machine-learning-model-performance-in-python-135b4ae27f7e
+[4:02 PM, 9/21/2020] Ivan: https://towardsdatascience.com/regular-expressions-in-python-a212b1c73d7f
+[9:10 PM, 9/21/2020] Ivan: https://towardsdatascience.com/how-to-use-regex-7aeaf4dd25e9
+[11:27 PM, 9/21/2020] Ivan: https://towardsdatascience.com/how-to-kickstart-your-career-as-a-data-scientist-3a904ff58e5c
+[9:26 AM, 9/23/2020] Ivan: https://towardsdatascience.com/all-the-datasets-you-need-to-practice-data-science-skills-and-make-a-great-portfolio-857a348883b5
+[1:33 PM, 9/23/2020] Ivan: https://towardsdatascience.com/how-to-build-your-own-dataset-for-data-science-projects-7f4ad0429de4
+[8:37 AM, 9/24/2020] Ivan: https://analyticsindiamag.com/more-than-a-decade-later-numpy-releases-first-review-paper-on-fundamental-array-concepts/
+[1:41 AM, 9/26/2020] Ivan: https://towardsdatascience.com/must-read-data-science-papers-487cce9a2020
+[11:38 AM, 9/26/2020] Ivan: https://towardsdatascience.com/top-12-data-science-skills-to-learn-in-2020-5f635d7d98bf
+[11:59 AM, 9/26/2020] Ivan: https://www.zdnet.com/article/numpys-contribution-to-python-is-remarkable-but-where-it-goes-next-could-be-even-more-so/
+[11:59 AM, 9/26/2020] Ivan: https://towardsdatascience.com/ultimate-pandas-guide-joining-data-with-python-48d9feff77ea
+[5:33 AM, 9/27/2020] Ivan: https://towardsdatascience.com/pytest-for-data-scientists-2990319e55e6
+[1:09 AM, 9/28/2020] Ivan: https://towardsdatascience.com/cleaning-web-scraped-data-with-pandas-and-regex-part-i-a82a177af11b
+[2:06 PM, 9/28/2020] Ivan: https://in.springboard.com/blog/data-science-datasets/#
+[5:19 PM, 9/28/2020] Ivan: https://towardsdatascience.com/tips-to-succeed-in-coding-interviews-13798474a58c
+[12:26 AM, 9/29/2020] Ivan: https://towardsdatascience.com/kaggles-micro-courses-my-favorite-introduction-to-data-science-f0cc6aeb024c
+[1:05 PM, 9/29/2020] Ivan: https://towardsdatascience.com/ultimate-pandas-guide-mastering-the-groupby-104306251739
+[1:06 PM, 9/29/2020] Ivan: https://www.kdnuggets.com/2018/11/10-free-must-see-courses-machine-learning-data-science.html
+[4:58 PM, 9/30/2020] Ivan: https://www.marketingaiinstitute.com/blog/3-free-online-artificial-intelligence-courses-taught-by-google-and-stanford-experts
+[1:40 AM, 10/1/2020] Ivan: https://www.miamiherald.com/news/local/immigration/article246126030.html
+[11:05 AM, 10/1/2020] Nico Fuentes: Wtf is this
+[11:44 AM, 10/1/2020] Ivan: You can apply for a green card
+[11:45 AM, 10/1/2020] Ivan: It's a lottery for a USA visa, if you win they give you the visa and you can live over there as an actual american citizen
+[11:46 AM, 10/1/2020] Ivan: However, chances of winning are low and the results are going to be 2 years from now
+[11:46 AM, 10/1/2020] Ivan: I'll give it a shot though
+[9:31 AM, 10/2/2020] Nico Fuentes: Not bad, bro
+[9:33 AM, 10/2/2020] Nico Fuentes: We must know all the possibilities
+[2:24 PM, 10/2/2020] Ivan: Of course bro
+[9:24 PM, 10/2/2020] Ivan: https://www.experfy.com/blog/how-to-build-a-data-science-project-from-scratch/
+[12:10 PM, 10/4/2020] Nico Fuentes: Bro, can you send me your CV? I need to make mine
+[12:11 PM, 10/4/2020] Nico Fuentes: A template
+[1:28 PM, 10/4/2020] Nico Fuentes: Thanks bro
+[2:42 PM, 10/4/2020] Ivan: My pleasure
+[9:31 AM, 10/5/2020] Ivan: https://towardsdatascience.com/ten-machine-learning-concepts-you-should-know-for-data-science-interviews-70107ca84754
+[12:55 PM, 10/5/2020] Ivan: Algoexpert
+[1:28 PM, 10/5/2020] Nico Fuentes: Useful, maybe
+[2:01 AM, 10/6/2020] Ivan: https://towardsdatascience.com/inexperienced-data-scientists-guide-to-meet-the-opportunity-9e8078e5ad74
+[2:05 AM, 10/6/2020] Ivan: https://nethunt.com/blog/how-to-automate-your-email-routine-in-gmail/
+[10:30 AM, 10/6/2020] Ivan: https://www.analyticsvidhya.com/blog/2020/10/confusion-matrix-is-no-more-a-confusion/
+[5:14 PM, 10/6/2020] Ivan: https://www.analyticsvidhya.com/blog/2020/10/ultimate-beginners-guide-top-10-machine-learning-hackathons/
+[11:04 PM, 10/6/2020] Ivan: https://www.freecodecamp.org/news/how-to-build-an-awesome-data-science-portfolio/
+[11:08 AM, 10/7/2020] Ivan: https://www.analyticsvidhya.com/blog/2020/06/feature-engineering-guide-data-science-hackathons/
+[3:05 PM, 10/7/2020] Ivan: https://www.analyticsvidhya.com/blog/2020/10/data-science-the-go-to-tool-for-solving-daily-problems-taking-better-decisions/
+[5:30 PM, 10/7/2020] Ivan: https://towardsdatascience.com/6-simple-tips-for-prettier-and-customised-plots-in-seaborn-python-22f02ecc2393
+[5:39 PM, 10/7/2020] Ivan: https://towardsdatascience.com/web-scraping-tools-comparison-all-you-need-to-get-started-915f1d0d57d8
+[9:09 PM, 10/7/2020] Ivan: https://towardsdatascience.com/10-pandas-tricks-to-make-my-data-analyzing-process-more-efficient-part-2-b72ea43a0bb5
+[12:19 PM, 10/9/2020] Ivan: https://thenextweb.com/syndication/2020/10/09/i-thought-i-had-mastered-python-until-i-discovered-these-tricks/
+[3:27 PM, 10/9/2020] Ivan: https://towardsdatascience.com/key-programming-concepts-for-pandas-beginners-3c038e8ef052
+[12:16 PM, 10/10/2020] Ivan: https://towardsdatascience.com/understanding-principal-component-analysis-ddaf350a363a
+[11:06 AM, 10/13/2020] Ivan: https://towardsdatascience.com/tabpy-combining-python-and-tableau-511b10da8175
+[9:34 AM, 10/14/2020] Ivan: https://news.codecademy.com/new-and-improved-data-scientist-career-path/
+[1:31 PM, 10/14/2020] Ivan: https://towardsdatascience.com/10-underrated-python-skills-dfdff5741fdf
+[3:47 PM, 10/14/2020] Ivan: https://towardsdatascience.com/20-great-pandas-tricks-for-data-science-3a6daed71da0
+[2:27 PM, 10/15/2020] Ivan: https://towardsdatascience.com/120-data-scientist-interview-questions-and-answers-you-should-know-in-2021-b2faf7de8f3e
+[7:19 PM, 10/15/2020] Ivan: https://towardsdatascience.com/ultimate-pandas-guide-inspecting-data-like-a-pro-9b4f13c39c94
+[10:42 AM, 10/16/2020] Ivan: https://www.iproup.com/finanzas/17557-dolar-rulo-pure-y-contado-con-liqui-4-0-que-son-y-como-usarlos
+[7:44 PM, 10/16/2020] Ivan: https://www.analyticsvidhya.com/blog/2020/10/confusion-matrix-is-no-more-a-confusion/
+[12:20 AM, 10/17/2020] Ivan: https://towardsdatascience.com/my-data-science-online-learning-journey-on-coursera-d5f733c68368
+[1:27 PM, 10/17/2020] Ivan: https://towardsdatascience.com/a-guide-to-building-your-first-regression-model-in-just-8-lines-of-code-2d1a2a755811
+[6:10 PM, 10/17/2020] Ivan: https://towardsdatascience.com/how-to-make-a-killer-data-science-portfolio-219424a4e0d2
+[11:23 PM, 10/17/2020] Ivan: https://news.codecademy.com/data-scientist-skills/
+[12:41 PM, 10/19/2020] Ivan: https://towardsdatascience.com/using-data-science-skills-now-text-scraping-8847ca4825fd
+[1:04 PM, 10/19/2020] Ivan: https://towardsdatascience.com/machine-learning-algorithms-from-start-to-finish-in-python-linear-regression-aa8c1d6b1169
+[4:40 PM, 10/20/2020] Ivan: https://www.kdnuggets.com/2020/10/roadmap-natural-language-processing-nlp.html
+[3:01 PM, 10/21/2020] Ivan: https://towardsdatascience.com/introduction-to-text-classification-with-python-c9db137b9d80
+[2:41 PM, 10/22/2020] Ivan: https://towardsdatascience.com/a-must-have-tool-for-every-data-scientist-5e7c76f1916f
+[3:26 PM, 10/22/2020] Ivan: https://switowski.com/blog/remove-duplicates
+[12:23 AM, 10/23/2020] Ivan: https://towardsdatascience.com/22-statistics-questions-to-prepare-for-data-science-interviews-d5651a8b3c56
+[10:31 AM, 10/23/2020] Ivan: https://towardsdatascience.com/spark-vs-pandas-part-1-pandas-10d768b979f5
+[8:43 PM, 10/23/2020] Ivan: https://towardsdatascience.com/how-to-make-more-money-as-a-data-scientist-bd6edd4fe460
+[1:21 PM, 10/24/2020] Ivan: https://towardsdatascience.com/machine-learned-word-embeddings-638c3fb5b916
+[2:25 AM, 10/25/2020] Ivan: https://towardsdatascience.com/the-absolute-beginners-guide-to-learning-data-science-and-ml-from-scratch-122e52c6a3
+[11:59 PM, 10/25/2020] Ivan: https://www.iproup.com/leaders/17791-talento-argentino-como-es-el-tinder-para-buscar-trabajo
+[10:53 AM, 10/27/2020] Ivan: https://www.iproup.com/empleo/17815-buscas-trabajo-10-empresas-de-it-que-hoy-contratan-empleados
+[11:37 AM, 10/27/2020] Ivan: https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/index.htm
+[3:24 PM, 10/27/2020] Ivan: https://towardsdatascience.com/data-science-interviews-sql-94dc33d58e73
+[11:23 AM, 10/28/2020] Ivan: https://towardsdatascience.com/pandas-dataframe-basics-3c16eb35c4f3

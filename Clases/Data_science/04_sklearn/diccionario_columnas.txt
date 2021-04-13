@@ -1,0 +1,302 @@
+﻿MS SubClass: Identifies the type of dwelling involved in the sale. 
+MS SubClass: Identificar el tipo de vivienda involucrada en la venta.
+
+
+MS Zoning: Identifies the general zoning classification of the sale.
+MS Zoning: Identificar la clasificación de zonificación general de la venta.
+
+
+
+
+Lot Frontage: Linear feet of street connected to property.
+Lot Frontage: Pies lineales de calle conectados a la propiedad.
+
+
+Lot Area: Lot size in square feet.
+Lot Area: Tamaño del lote en pies cuadrados.
+
+
+Street: Type of road access to property.
+Street: Tipo de acceso por ruta a la propiedad.
+            
+Alley: Type of alley access to property.
+Alley: Tipo de acceso por callejón a la propiedad.
+
+
+Lot Shape: General shape of property
+Lot Shape: Forma general de la propiedad.
+      
+Land Contour: Flatness of the property
+Land Contour: LLanura de la propiedad.
+
+
+                
+Utilities: Type of utilities available.
+Utilities: Tipo de utilidades disponibles.
+        
+Lot Config: Lot configuration.
+Lot Config: Configuración de lote.
+
+
+Land Slope: Slope of property.
+Land Slope: Pendiente de la propiedad.
+
+
+Neighborhood: Physical locations within Ames city limits
+Neighborhood: Localizaciones físicas dentro de los límites de la ciudad Ames.
+                        
+Condition1: Proximity to various conditions.
+Condition1: Proximidad a varias condiciones.
+
+
+Condition2: Proximity to various conditions (if more than one is present).
+Condition2: Proximidad a varias condiciones (si hay más de una presente).
+                
+BldgType: Type of dwelling.
+BldgType: Tipo de vivienda.
+
+
+House Style: Style of dwelling.
+House Style: Estilo de la vivienda. 
+        
+Overall Qual: Rates the overall material and finish of the house.
+Overall Qual: Califica el material general y el acabado de la casa.
+
+
+Overall Cond: Rates the overall condition of the house.
+Overall Cond: Califica la condición general de la casa.
+        
+Year Built: Original construction date.
+Year Built: Fecha original de la construcción.
+
+
+Year Remod/Add: Remodel date (same as construction date if no remodeling or additions)
+Year Remod/Add: Fecha de remodelación (misma fecha de construcción si no hay remodelaciones o adiciones).
+
+
+Roof Style: Type of roof
+Roof Style: Tipo de techo.
+
+
+Roof Matl: Roof material
+Roof Matl: Material del techo.
+        
+Exterior 1st: Exterior covering on house
+Exterior 1st: Cubierta exterior en la casa.
+        
+Exterior 2nd: Exterior covering on house (if more than one material)
+Exterior 2nd: Cubierta exterior en la casa (si hay más de un material).
+
+
+Mas Vnr Type: Masonry veneer type
+Mas Vnr Type: Tipo de revestimiento de mampostería.
+
+
+Mas Vnr Area: Masonry veneer area in square feet
+Mas Vnr Area: Área de revestimiento de mampostería en pies cuadrados.
+
+
+Exter Qual: Evaluates the quality of the material on the exterior 
+Exter Qual: Evalúa la calidad del material en el exterior.
+
+
+Exter Cond: Evaluates the present condition of the material on the exterior
+Exter Cond: Evalúa la condición actual del material en el exterior.
+Foundation: Type of foundation
+Foundation: Tipo de cimientos.
+
+
+Bsmt Qual: Evaluates the height of the basement
+Bsmt Qual: Evalúa la altura del sótano.
+
+
+Bsmt Cond: Evaluates the general condition of the basement
+Bsmt Cond: Evalúa la condición general del sótano.
+
+
+Bsmt Exposure: Refers to walkout or garden level walls
+Bsmt Exposure: Se refiere a muros a nivel del jardín o de salida.
+
+
+BsmtFin Type 1: Rating of basement finished area.
+BsmtFin Type 1: Calificación del acabado en área del sótano. 
+
+
+BsmtFin SF 1: Type 1 finished square feet.
+BsmtFin SF 1: Pies cuadrados acabado tipo 1.
+
+
+BsmtFin Type 2: Rating of basement finished area (if multiple types).
+BsmtFin Type 2: Calificación del acabado en el área del sótano (si hay varios tipos).
+
+
+BsmtFin SF 2: Type 2 finished square feet.
+BsmtFin SF 2: Pies cuadrados acabado tipo 2.
+
+
+Bsmt Unf SF: Unfinished square feet of basement area.
+Bsmt Unf SF: Pies cuadrados sin terminar en el área del sótano.
+
+
+Total Bsmt SF: Total square feet of basement area.
+Total Bsmt SF: Pies cuadrados totales en el área del sótano.
+
+
+Heating: Type of heating.
+Heating: Tipo de calefacción.
+
+
+Heating QC: Heating quality and condition.
+Heating QC: Calidad y condición de la calefacción.
+                
+Central Air: Central air conditioning.
+Central Air: Aire acondicionado central.
+
+
+Electrical: Electrical system.
+Electrical: Sistema eléctrico.
+                
+1st Flr SF: First Floor square feet.
+1st Flr SF: Pies cuadrados del primer piso.
+ 
+2nd Flr SF: Second floor square feet.
+2nd Flr SF: Pies cuadrados del segundo piso.
+
+
+Low Qual Fin SF: Low quality finished square feet (all floors).
+Low Qual Fin SF: Pies cuadrados con acabado de baja calidad (todos los pisos).
+
+
+Gr Liv Area: Above grade (ground) living area square feet.
+Gr Liv Area: Superficie habitable por encima del nivel (suelo) en pies cuadrados.
+
+
+Bsmt Full Bath: Basement full bathrooms.
+Bsmt Full Bath: Baños completos en el sótano.
+
+
+Bsmt Half Bath: Basement half bathrooms.
+Bsmt Half Bath: Baños a mitad en el sótano.
+
+
+Full Bath: Full bathrooms above grade.
+Full Bath: Baños completos por encima del nivel.
+
+
+Half Bath: Half baths above grade.
+Half Bath: Baños a mitad por encima del nivel.
+
+
+Bedroom: Bedrooms above grade (does NOT include basement bedrooms).
+Bedroom: Dormitorios por encima del nivel ( NO incluye los dormitorios en el sótano).
+
+
+Kitchen: Kitchens above grade.
+Kitchen: Cocinas por encima del nivel.
+
+
+Kitchen Qual: Kitchen quality.
+Kitchen Qual: Calidad de la cocina.
+           
+TotRms Abv Grd: Total rooms above grade (does not include bathrooms).
+TotRms Abv Grd: Total de habitaciones por encima del nivel (no incluye los baños).
+.
+Functional: Home functionality (Assume typical unless deductions are warranted).
+Functional: Funcionalidad en el hogar (suponga lo típico a menos que se justifiquen las deducciones).  
+
+
+Fireplaces: Number of fireplaces.
+Fireplaces: Número de chimeneas.
+
+
+Fireplace Qu: Fireplace quality.
+Fireplace Qu: Calidad de las chimeneas.
+
+
+Garage Type: Garage location.
+Garage Type:  Localización del garaje.
+
+
+Garage Yr Blt: Year garage was built.
+Garage Yr Blt: Año en el que el garaje fue construido.
+        
+Garage Finish: Interior finish of the garage.
+Garage Finish: Acabado interior del garaje.
+
+
+Garage Cars: Size of garage in car capacity.
+Garage Cars: Tamaño del garaje en capacidad de automóvil
+
+
+Garage Area: Size of garage in square feet.
+Garage Area: Tamaño del garaje en pies cuadrados.
+
+
+Garage Qual: Garage quality.
+Garage Qual: Calidad del garaje.
+        
+Garage Cond: Garage condition.
+Garage Cond: Condición del garaje.
+                
+Paved Drive: Paved driveway.
+Paved Drive: Entrada de coches pavimentada.
+
+
+Wood Deck SF: Wood deck area in square feet.
+Wood Deck SF: Área de la cubierta de madera en pies cuadrados.
+
+
+Open Porch SF: Open porch area in square feet.
+Open Porch SF: Área del porche abierto en pies cuadrados.
+
+
+Enclosed Porch: Enclosed porch area in square feet.
+Enclosed Porch: Área de porche cerrado en pies cuadrados.
+
+
+3Ssn Porch: Three season porch area in square feet.
+3Ssn Porch: Área de porche de tres estaciones en pies cuadrados.
+
+
+Screen Porch: Screen porch area in square feet.
+Screen Porch: Área del porche de pantalla en pies cuadrados.
+
+
+Pool Area: Pool area in square feet.
+Pool Area: Área de la piscina en pies cuadrados.
+
+
+
+
+Pool QC: Pool quality.
+Pool QC: Calidad de la piscina.
+                
+Fence: Fence quality.
+Fence: Calidad de la cerca.
+
+
+Misc Feature: Miscellaneous feature not covered in other categories.
+Misc Feature: Característica miscelánea no cubierta en otras categorías.
+                
+Misc Val: Value of miscellaneous feature (USD).
+Misc Val: Valor de la característica miscelánea (USD).
+
+
+Mo Sold: Month Sold (MM).
+Mo Sold: Mes vendido (MM).
+
+
+Yr Sold: Year Sold (YYYY).
+Yr Sold: Año vendido (YYYY).
+
+
+Sale Type: Type of sale.
+Sale Type: Tipo de venta.
+
+
+Sale Condition: Condition of sale.
+Sale Condition: Condición de la venta.
+
+
+SalePrice: Price of Sale (USD).
+SalePrice: Precio de venta.
